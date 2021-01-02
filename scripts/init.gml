@@ -97,3 +97,6 @@ air_dodge_sound = asset_get("sfx_quick_dodge");
 //visual offsets for when you're in Ranno's bubble
 bubble_x = 0;
 bubble_y = 8;
+
+// Custom attacks
+AT_EXPLOSION = AT_EXTRA_1;

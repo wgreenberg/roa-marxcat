@@ -20,7 +20,7 @@ set_hitbox_value(AT_FSPECIAL, 1, HG_SHAPE, 0);
 set_hitbox_value(AT_FSPECIAL, 1, HG_PRIORITY, 2);
 set_hitbox_value(AT_FSPECIAL, 1, HG_DAMAGE, 3);
 set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_HSPEED, 5);
-set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_VSPEED, -10);
+set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_VSPEED, -5);
 set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_SPRITE, sprite_get("bottle_spin"));
 set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_GRAVITY, 0.25);
 set_hitbox_value(AT_FSPECIAL, 1, HG_PROJECTILE_MASK, -1);
