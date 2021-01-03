@@ -98,5 +98,5 @@ air_dodge_sound = asset_get("sfx_quick_dodge");
 bubble_x = 0;
 bubble_y = 8;
 
-// Custom attacks
-AT_EXPLOSION = AT_EXTRA_1;
+// setup for molotov cocktail effect
+AT_FIRE = AT_EXTRA_1;
